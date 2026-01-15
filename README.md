@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Janri a 3rd Year BSIT Student<br><br>- 📚 I'm currently learning anything that I can learn<br>- ⚡ In my free time I do music and play games</p>
+<p align="left">I'm Janri a 3rd Year BSIT Student<br><br>- 📚 I'm currently learning anything that I can learn<br>- ⚡ In my free time I do music and play games<br>- 🥊 I was an amateur boxer</p>
 
 ###
 
